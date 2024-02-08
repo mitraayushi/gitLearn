@@ -82,7 +82,7 @@ ________________________________________
 # Add a new remote upstream repository
 git remote add upstream [Parent Repo Link]
 
-# Sync your fork
+#Sync your fork
 git fetch upstream
 git checkout master
 git merge upstream/master
